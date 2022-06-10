@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat'),
+    url('./fonts/Montserrat/Montserrat-Regular.ttf') format('truetype');
+  font-weight: normal;
+}
+
+#page {
+  font-family: Montserrat;
+  h1 {
+    text-align: center;
+    margin: 40px 0;
+  }
+}
